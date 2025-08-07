@@ -5,7 +5,8 @@ Reno1 is a hashing-based system configured specifically for devs using templatin
 Renoi helps with restarting the dev server anytime changes are made to the the 'views' and 'locales' folder and inside sub-apps. 
 All other files like .js .ts are all monitored by nodemon so there's no  overhead complexity.
 
-Without having to restart casa's server ever again after changes to ```.njk ``` or ```.yaml``` files, renoi does that for you like your new autosave 
+Without having to restart your server ever again after changes to ```.njk ``` or ```.yaml``` files or any templating engine at all
+, renoi does that for you like your new autosave 
 with no configuration or complexity involved. Your server still works fine, so no worries
 
 ## Features:
